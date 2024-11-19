@@ -1,0 +1,509 @@
+color,count
+black/white,8996
+black,6457
+brown tabby,5191
+brown tabby/white,2784
+brown/white,2687
+tan/white,2478
+white,2435
+orange tabby,2425
+blue/white,2392
+white/black,2328
+tan,1954
+tricolor,1852
+black/tan,1839
+brown,1792
+black/brown,1783
+calico,1561
+tortie,1560
+blue,1527
+white/brown,1498
+brown/black,1463
+brown brindle/white,1460
+blue tabby,1441
+orange tabby/white,1376
+torbie,1174
+white/tan,1155
+tan/black,877
+red/white,857
+blue tabby/white,765
+red,755
+brown brindle,701
+cream tabby,687
+chocolate/white,649
+lynx point,500
+cream,440
+white/brown tabby,383
+sable,379
+fawn/white,366
+white/blue,364
+yellow,329
+cream tabby/white,323
+black/tricolor,322
+white/brown brindle,314
+buff,298
+brown/tan,292
+seal point,284
+chocolate,261
+white/gray,254
+flame point,250
+torbie/white,249
+gray/white,246
+white/tricolor,209
+sable/white,197
+chocolate/tan,169
+cream/white,165
+black brindle/white,161
+blue merle,152
+white/orange tabby,151
+white/red,147
+red/black,145
+black smoke,144
+fawn,138
+gray,136
+blue merle/white,131
+gray tabby,129
+calico/white,126
+black/gray,121
+black/brown brindle,120
+white/cream,108
+yellow/white,106
+tortie point,104
+blue tick,103
+brown/tricolor,103
+black tabby,99
+brown merle,97
+brown merle/white,97
+buff/white,96
+tan/brown,95
+black brindle,93
+tricolor/white,93
+black/black,93
+tortie/white,89
+white/chocolate,88
+lilac point,85
+gray tabby/white,84
+red tick,77
+gold,75
+white/orange,74
+white/blue tabby,74
+white/white,72
+orange/white,71
+blue/tan,64
+lynx point/white,61
+gray/black,60
+silver tabby,60
+tricolor/black,56
+black/red,56
+seal point/white,56
+yellow brindle/white,53
+brown brindle/black,51
+blue point,51
+chocolate point,50
+tricolor/brown,49
+red/tan,48
+blue cream,48
+orange,48
+tan/cream,47
+gold/white,43
+white/buff,43
+black tabby/white,42
+apricot,41
+red merle,39
+cream/tan,39
+red tick/white,37
+black/blue tick,37
+cream/black,36
+blue merle/tan,36
+black smoke/white,35
+blue tick/tan,35
+blue tick/black,34
+fawn/black,34
+calico point,33
+white/cream tabby,32
+gold/tan,32
+brown/brown,32
+red merle/white,31
+sable/black,30
+white/blue merle,30
+black/cream,29
+white/fawn,28
+silver tabby/white,28
+sable/tan,26
+gray/tan,25
+tan/tan,25
+white/calico,25
+red/brown,25
+blue tiger/white,24
+brown/cream,24
+brown tabby/black,23
+silver,23
+black brindle/brown,22
+brown/red,22
+agouti,21
+tan/tricolor,21
+white/red tick,21
+tan/gray,21
+yellow brindle,20
+white/yellow,20
+brown tiger/white,19
+white/brown merle,19
+white/black brindle,19
+blue tick/tricolor,18
+silver/tan,18
+black/black brindle,17
+blue merle/black,17
+gray/brown,17
+buff/black,17
+white/gray tabby,17
+blue point/white,17
+blue tick/white,17
+brown brindle/brown,15
+blue/tricolor,14
+tan/red,14
+white/red merle,14
+tortie/black,14
+buff/tan,14
+chocolate/tricolor,14
+tan/silver,14
+cream/brown,13
+sable/brown,13
+tricolor/tan,13
+tortie/blue cream,12
+tan/buff,12
+blue merle/brown,12
+silver lynx point,12
+blue smoke,12
+brown tiger,12
+white/blue tick,11
+white/black tabby,11
+brown/gray,11
+yellow/black,11
+green/yellow,11
+black/fawn,10
+red/cream,10
+chocolate point/white,10
+black/buff,10
+tortie point/white,9
+lilac point/white,9
+blue tick/brown,9
+fawn/tan,9
+black brindle/black,9
+tricolor/blue tick,9
+green,9
+brown brindle/tan,9
+calico/brown tabby,9
+tan/blue,9
+brown/brown brindle,8
+tan/fawn,8
+black/orange,8
+gray/cream,8
+blue/brown,8
+black/chocolate,8
+liver/white,8
+blue/gray,8
+black/silver,8
+blue tick/red tick,7
+silver/black,7
+calico/black,7
+silver/white,7
+blue tabby/cream,7
+white/liver,7
+black/blue merle,7
+white/silver,7
+gray tabby/black,7
+brown tabby/orange,6
+white/silver tabby,6
+white/seal point,6
+blue tiger,6
+brown merle/tan,6
+blue merle/tricolor,6
+blue/black,6
+black smoke/black tabby,6
+chocolate/cream,6
+brown tabby/gray,6
+cream/red,6
+calico point/white,6
+gray/gray,6
+gold/brown,5
+red/red tick,5
+brown/silver,5
+blue/brown brindle,5
+liver tick,5
+flame point/white,5
+buff/cream,5
+brown tabby/tortie,5
+cream/yellow,5
+gray/tricolor,5
+brown tabby/brown,5
+black tiger,5
+blue/blue,5
+tortie/gray,4
+torbie/blue cream,4
+gray/yellow,4
+sable/red,4
+red tick/brown,4
+orange tiger,4
+tortie/tortie,4
+pink,4
+silver/brown,4
+tricolor/gray,4
+fawn/brown,4
+brown tabby/silver,4
+white/black smoke,4
+red/tricolor,4
+tricolor/red,4
+orange/black,4
+torbie/orange,4
+chocolate/brown,4
+blue tick/red,4
+chocolate/brown brindle,4
+apricot/white,4
+green/black,4
+lynx point/tortie point,4
+blue cream/white,4
+red merle/black,4
+orange tabby/cream,4
+yellow/red,4
+sable/cream,4
+blue/tortie,4
+yellow/cream,3
+calico/orange,3
+brown merle/black,3
+calico/gray,3
+red/red,3
+blue smoke/white,3
+liver/tan,3
+red tick/red,3
+gold/cream,3
+brown/red tick,3
+black brindle/tan,3
+cream/gray,3
+brown/buff,3
+brown/chocolate,3
+red/yellow,3
+red tick/tan,3
+blue/orange,3
+brown tabby/agouti,3
+tan/red merle,3
+tan/red tick,3
+green/red,3
+green/gray,3
+blue tabby/black,3
+brown brindle/brown brindle,3
+brown/green,3
+white/apricot,3
+tricolor/blue,3
+brown tabby/cream,3
+tortie/orange,3
+white/yellow brindle,3
+white/gold,3
+cream/red tick,3
+orange tabby/orange,3
+tan/yellow,3
+silver/gray,3
+black/yellow,3
+calico/blue cream,3
+black/black smoke,3
+gray/orange,3
+fawn/brown brindle,2
+cream/blue point,2
+white/flame point,2
+cream/orange,2
+gray tabby/brown,2
+chocolate point/cream,2
+torbie/black,2
+white/blue cream,2
+yellow/brown,2
+fawn/gray,2
+green/white,2
+brown merle/brown,2
+white/calico point,2
+brown brindle/blue tick,2
+torbie/brown tabby,2
+orange tabby/brown,2
+green/blue,2
+tricolor/blue merle,2
+fawn/blue,2
+brown brindle/black brindle,2
+torbie/gray,2
+black brindle/brown brindle,2
+blue merle/red merle,2
+black/brown tabby,2
+blue/green,2
+black/yellow brindle,2
+gold/yellow,2
+white/lynx point,2
+white/brown tiger,2
+orange tabby/orange tabby,2
+tortie/blue,2
+blue merle/blue merle,2
+calico/brown,2
+white/tortie point,2
+blue merle/red,2
+brown tabby/calico,2
+agouti/white,2
+gold/gold,2
+gray/tortie,2
+yellow/green,2
+chocolate/red tick,2
+agouti/brown tabby,2
+brown tiger/cream,2
+tricolor/brown merle,2
+blue/cream,2
+sable/gray,2
+cream/silver,2
+buff/red tick,2
+blue tabby/brown,2
+brown tabby/brown tabby,2
+blue tabby/blue cream,2
+buff/brown,2
+calico/tricolor,2
+liver/blue,2
+gray/red,2
+red/buff,2
+lynx point/gray,2
+red/red merle,2
+yellow/gray,2
+yellow/tan,2
+brown tabby/black brindle,1
+cream/blue,1
+gray tabby/tan,1
+white/agouti,1
+tortie/blue tabby,1
+blue/blue tick,1
+brown tabby/orange tabby,1
+tan/blue tick,1
+chocolate/gray,1
+chocolate/blue tick,1
+tortie point/blue,1
+gray/green,1
+tortie/gold,1
+lilac point/black,1
+green/silver,1
+white/pink,1
+black/brown merle,1
+chocolate/yellow,1
+ruddy,1
+brown/gold,1
+seal point/gray,1
+tricolor/red tick,1
+brown tabby/gold,1
+blue/blue merle,1
+black/gold,1
+blue merle/brown merle,1
+blue smoke/gray,1
+silver lynx point/white,1
+blue/fawn,1
+tan/brown brindle,1
+brown merle/blue merle,1
+black smoke/black,1
+lynx point/cream,1
+silver/cream,1
+seal point/silver,1
+brown merle/brown merle,1
+brown tiger/brown,1
+ruddy/cream,1
+brown brindle/chocolate,1
+red merle/brown,1
+brown brindle/blue cream,1
+blue point/cream,1
+seal point/cream,1
+black/blue,1
+silver/chocolate,1
+blue cream/tortie,1
+tricolor/cream,1
+black tiger/white,1
+brown/liver,1
+lilac point/gray,1
+black tabby/black smoke,1
+tortie/brown,1
+blue merle/gray,1
+torbie/blue tabby,1
+red tick/tricolor,1
+black smoke/chocolate,1
+fawn/tricolor,1
+black smoke/blue tick,1
+blue merle/brown brindle,1
+red/gray,1
+gold/black,1
+orange/tricolor,1
+orange tabby/tan,1
+chocolate/gold,1
+liver,1
+gold/gray,1
+tortie point/seal point,1
+silver/silver tabby,1
+liver/liver tick,1
+gray/gold,1
+fawn/chocolate,1
+brown tabby/gray tabby,1
+blue/yellow brindle,1
+chocolate/fawn,1
+red tick/orange,1
+cream/seal point,1
+brown/fawn,1
+yellow brindle/blue,1
+yellow brindle/black,1
+cream/green,1
+orange/tan,1
+sable/buff,1
+cream tiger/brown tabby,1
+tortie point/lynx point,1
+brown merle/chocolate,1
+blue merle/cream,1
+lynx point/tan,1
+cream tabby/orange tabby,1
+lynx point/blue point,1
+agouti/gray,1
+red tick/brown brindle,1
+buff/yellow,1
+chocolate/black,1
+red/silver,1
+yellow/blue,1
+tricolor/fawn,1
+blue smoke/tan,1
+sable/red merle,1
+orange/orange tabby,1
+red merle/red tick,1
+yellow/orange,1
+orange/brown,1
+red tick/brown merle,1
+tortie/black smoke,1
+cream tabby/cream tabby,1
+tricolor/chocolate,1
+chocolate/seal point,1
+fawn/yellow,1
+white/blue tiger,1
+buff/gray,1
+blue/yellow,1
+calico/orange tabby,1
+calico/calico,1
+brown/yellow,1
+red/brown brindle,1
+brown/black smoke,1
+red/green,1
+brown/black brindle,1
+cream/gold,1
+brown/red merle,1
+white/lilac point,1
+gray/buff,1
+gray tabby/orange,1
+brown/seal point,1
+blue tabby/tan,1
+blue cream/blue tabby,1
+silver tabby/black,1
+tricolor/brown brindle,1
+green/brown,1
+black brindle/yellow,1
+liver tick/brown,1
+silver lynx point/gray,1
+red tick/black,1
+brown brindle/gray,1
+brown brindle/red tick,1
+gray/gray tabby,1
+blue/calico,1
+white/gray tiger,1
+lynx point/blue,1
+orange/gray,1
+black brindle/blue tick,1
